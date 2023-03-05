@@ -1,0 +1,14 @@
+.board-container{
+  margin-left: 38%;
+  margin-top: 50px;
+}
+
+.board-row{
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.App{
+  text-align: center;
+}
